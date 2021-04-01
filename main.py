@@ -10,6 +10,7 @@ def index():
                         <html lang="en">
                           <head>
                             <h1> тест <h1>
+                            <p><img src="hideme.png" alt="Письма мастера дзен"></p>
                           </body>
                         </html>'''
 
