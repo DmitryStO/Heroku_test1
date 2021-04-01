@@ -9,10 +9,13 @@ def index():
     return f'''<!doctype html>
                         <html lang="en">
                           <head>
-                            <h1> тест <h1>
-                            <p><img src="hideme.png" alt="Письма мастера дзен"></p>
+                            <h1> Лицей-Боль <h1>
+                            <img src="https://i.ibb.co/hdX5g5S/hideme.png">
+                           
                           </body>
+                         <!https://drive.google.com/file/d/145Q-ZT19ZZQqDPhR3r5pOe9cmg7LO2Xs/view?usp=sharing>
                         </html>'''
+
 
 @app.route('/astronaut_selection', methods=['POST', 'GET'])
 def form_sample():
