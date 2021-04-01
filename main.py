@@ -6,7 +6,12 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return "Привет, ЭТО МОЙ САЙТ!"
+    return f'''<!doctype html>
+                        <html lang="en">
+                          <head>
+                            <h1> тест <h1>
+                          </body>
+                        </html>'''
 
 @app.route('/astronaut_selection', methods=['POST', 'GET'])
 def form_sample():
