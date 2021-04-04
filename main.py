@@ -13,7 +13,7 @@ def index():
                             <img src="https://i.ibb.co/hdX5g5S/hideme.png">
                            
                           </body>
-                         <!https://drive.google.com/file/d/145Q-ZT19ZZQqDPhR3r5pOe9cmg7LO2Xs/view?usp=sharing>
+                         <!https://bit.ly/3sTtpy0>
                         </html>'''
 
 
