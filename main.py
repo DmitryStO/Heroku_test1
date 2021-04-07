@@ -9,8 +9,9 @@ def index():
     return f'''<!doctype html>
                         <html lang="en">
                           <head>
-                            <h1> Лицей-Боль <h1>
-                            <img src="https://i.ibb.co/hdX5g5S/hideme.png">
+                            <h1> Любимый лицей <h1>
+                            <img src="https://i.ibb.co/DbZMCPs/hideme.png">
+                             <h3>             пока данную задачу никто не решил, все в твои силах<h3>
                            
                           </body>
                          <!https://bit.ly/3sTtpy0>
