@@ -18,18 +18,18 @@ def index():
                         </html>'''
 
 
-@app.route('/home')
-def index():
-    return f'''<!doctype html>
-                        <html lang="en">
-                          <head>
-                            <h1> Любимый лицей <h1>
-                            <img src="https://i.ibb.co/DbZMCPs/hideme.png">
-                             <h3>             пока данную задачу никто не решил, все в твои силах<h3>
-
-                          </body>
-                         <!https://bit.ly/2Qhlso8>
-                        </html>'''
+# @app.route('/home')
+# def index():
+#     return f'''<!doctype html>
+#                         <html lang="en">
+#                           <head>
+#                             <h1> Любимый лицей <h1>
+#                             <img src="https://i.ibb.co/DbZMCPs/hideme.png">
+#                              <h3>             пока данную задачу никто не решил, все в твои силах<h3>
+#
+#                           </body>
+#                          <!https://bit.ly/2Qhlso8>
+#                         </html>'''
 
 
 @app.route('/astronaut_selection', methods=['POST', 'GET'])
